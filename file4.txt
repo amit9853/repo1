@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file on branch b1
+=======
+new file created om master remote
+>>>>>>> 42dd8e938561dc8375721e6179b5419ce54c4d30
